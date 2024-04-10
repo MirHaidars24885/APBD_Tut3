@@ -1,0 +1,14 @@
+/Users/mirhaidar/Downloads/APBD_Tut3/bin/Debug/net8.0/APBD_Tut3
+/Users/mirhaidar/Downloads/APBD_Tut3/bin/Debug/net8.0/APBD_Tut3.deps.json
+/Users/mirhaidar/Downloads/APBD_Tut3/bin/Debug/net8.0/APBD_Tut3.runtimeconfig.json
+/Users/mirhaidar/Downloads/APBD_Tut3/bin/Debug/net8.0/APBD_Tut3.dll
+/Users/mirhaidar/Downloads/APBD_Tut3/bin/Debug/net8.0/APBD_Tut3.pdb
+/Users/mirhaidar/Downloads/APBD_Tut3/obj/Debug/net8.0/APBD_Tut3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mirhaidar/Downloads/APBD_Tut3/obj/Debug/net8.0/APBD_Tut3.AssemblyInfoInputs.cache
+/Users/mirhaidar/Downloads/APBD_Tut3/obj/Debug/net8.0/APBD_Tut3.AssemblyInfo.cs
+/Users/mirhaidar/Downloads/APBD_Tut3/obj/Debug/net8.0/APBD_Tut3.csproj.CoreCompileInputs.cache
+/Users/mirhaidar/Downloads/APBD_Tut3/obj/Debug/net8.0/APBD_Tut3.dll
+/Users/mirhaidar/Downloads/APBD_Tut3/obj/Debug/net8.0/refint/APBD_Tut3.dll
+/Users/mirhaidar/Downloads/APBD_Tut3/obj/Debug/net8.0/APBD_Tut3.pdb
+/Users/mirhaidar/Downloads/APBD_Tut3/obj/Debug/net8.0/APBD_Tut3.genruntimeconfig.cache
+/Users/mirhaidar/Downloads/APBD_Tut3/obj/Debug/net8.0/ref/APBD_Tut3.dll
